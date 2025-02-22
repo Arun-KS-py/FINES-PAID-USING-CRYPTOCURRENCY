@@ -1,1 +1,1 @@
-Hi, I'm Arun, Its my final year project. We used Flask for Deployment.
+Hi, I'm Arun, Its my final year project.
